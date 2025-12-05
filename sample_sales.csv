@@ -1,0 +1,11 @@
+order_id,date,region,category,amount
+1,2024-01-01,North,Electronics,1200
+2,2024-01-01,South,Furniture,800
+3,2024-01-02,East,Clothing,200
+4,2024-01-02,West,Electronics,1500
+5,2024-01-03,North,Clothing,450
+6,2024-01-04,South,Furniture,1300
+7,2024-01-05,East,Electronics,900
+8,2024-01-05,West,Clothing,300
+9,2024-01-06,North,Furniture,700
+10,2024-01-07,South,Electronics,1600
